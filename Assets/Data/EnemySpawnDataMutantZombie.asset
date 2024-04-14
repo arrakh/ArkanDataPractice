@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 080c5b86bde349f4988eb2ba6b91ee1a, type: 3}
+  m_Name: EnemySpawnDataMutantZombie
+  m_EditorClassIdentifier: 
+  id: MutantZombie
+  enemyPrefabs: {fileID: 6126660976510510722, guid: b84c5ad9799261947a418e0706a7b0b7, type: 3}
+  characterStats: {fileID: 11400000, guid: a99db7f32bd494b48981b1bdb328f8da, type: 2}
